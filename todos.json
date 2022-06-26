@@ -1,0 +1,6 @@
+[
+  { "name": "Shubham", "age": 24, "isEmployed": false, "college": "IGNOU" },
+  { "name": "Suyash", "age": 19, "isEmployed": false, "college": "LPU" },
+  { "name": "Kapil", "age": 25, "isEmployed": true, "college": "VIT" },
+  { "name": "Prashant", "age": 23, "isEmployed": true, "college": "VIT" }
+]
